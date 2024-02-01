@@ -1,0 +1,9 @@
+How to install git on local machine
+step 1: type in git in your search web browser, choose base on your Operating System whether MAC OS, Linus or windows
+Step 2: click on download for windows if your OS is windows,
+Step 3: Open the terminal and type in apt - get install git if it is linus
+Step 4: Configure your name and email by typing the following on the command interface
+a. git config --global user.name 'My_Name'
+b. git config --global user.email 'myEmail@wherever.com'
+
+

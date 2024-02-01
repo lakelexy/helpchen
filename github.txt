@@ -1,0 +1,27 @@
+Steps on how to Create a Github account and clone it
+
+Step 1: Type into your search web browser 'github.com' it will open an interface
+
+Step 2: Click on Sign up at the right corner of the interface that is open to setup your account
+
+Step 3: fill up the details by entering your email addrees on th form display and click continue
+
+Step 4: fill up the next by entering your password on the textbox display and click continue
+
+Step 5: Enter Username and click continue
+
+Step 6: Verify your account to be sure you are human and not robot
+
+Step 7: A code will be sent to the email used to register, the code will be inputed to verify the github account. then the account is created
+ 
+Steps on how to create a new Repository and clone it in to the local machine
+
+Step 1: Click on the Textbutton New or click on the + sign close to the profile picture on the right corner and select new repository
+
+Step 2: Type in the repository name
+
+Step 3: Click the last button Create repository
+
+Step 4: Copy the url of th repostory and go to the command interface and type in git clone and paste the url infront of it then click enter
+
+Step 5:
